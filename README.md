@@ -11,6 +11,11 @@ Tanjir Luxurious and secure housing is a company that meets the users' needs. We
 
 Browse through our available houses and discover your perfect home. Each house comes with detailed information, including the price, description, location, and contact details. You can also like your favorite houses.
 
+
+NB: To access the data in the json file run the json server in the terminal. 
+Run the following command
+"npm run json"
+
 ## Contact
 
 If you have any questions or inquiries, feel free to contact us.
