@@ -1,0 +1,98 @@
+{
+    "Houses": [
+        {
+            "id": "House 1",
+            "image": "https://i.pinimg.com/564x/88/83/c9/8883c93ebe6fc86aed2ed72f117b306d.jpg",
+            "Price": "Ksh 1.5 Million",
+            "Description": "3 bedrooms with a big backyard",
+            "Rooms": "3 bedrooms, 2 living rooms, 3 bathrooms",
+            "Contact": "+254 799 123 445",
+            "Location": "Westlands"
+        },
+        {
+            "id": "House 2",
+            "image": "https://i.pinimg.com/564x/16/43/41/1643414b67f8d6b32209b452b307d8aa.jpg",
+            "Price": "Ksh 1 Million",
+            "Description": "4 bedrooms with a flower garden on the frontYard",
+            "Rooms": "4 bedrooms, 1 living room, 1 gaming room, 5 bathrooms, open garage",
+            "Contact": "+254 788 567 234",
+            "Location": "Parklands"
+        },
+        {
+            "id": "House 3",
+            "image": "https://i.pinimg.com/564x/2a/87/29/2a87297fa657adebe0b8f38e1fb87826.jpg",
+            "Price": "Ksh 3 Million",
+            "Description": "3 bedrooms PentHouse",
+            "Rooms": "3 bedrooms, 1 huge balcony",
+            "Contact": "+254 768 669 333",
+            "Location":"Westlands"
+        },
+        {
+            "id": "House 4",
+            "image": "https://i.pinimg.com/564x/53/cc/ed/53cced937ab6ac65c13c312c81187df1.jpg",
+            "Price": "Ksh 1.2 Million",
+            "Description": "Lake House",
+            "Rooms": "5 bedrooms, Pool indoor pool, gym",
+            "Contact": "+254 725 583 935",
+            "Location": "Juja"
+        },
+    
+    
+        {
+            "id": "House 5",
+            "image": "https://i.pinimg.com/236x/fb/f3/58/fbf3583a94fc3ad0908718b6576bb93d.jpg",
+            "Price": "Ksh 900,000",
+            "Description": "3 bedrooms with an outdoor pool",
+            "Rooms": "3 bedrooms, 1 guest house, 1 gym, 2 living rooms",
+            "Contact": "+254 769 666 545",
+            "Location": "Mombasa"
+        },
+        {
+            "id": "House 6",
+            "image": "https://i.pinimg.com/564x/27/19/1d/27191dcabed893261a272640c94e8475.jpg",
+            "Price": "Ksh 950,000",
+            "Description": "2 bedrooms with a beach on the frontyard",
+            "Rooms": "2 bedrooms, 1 gym, 1 living room",
+            "Contact": "+254 769 666 545",
+            "Location": "Kilifi"
+        },
+        {
+            "id": "House 7",
+            "image": "https://i.pinimg.com/564x/76/61/76/766176224ba2699cb71991fda745eae5.jpg",
+            "Price": "Ksh 3.5M",
+            "Description": "5 bedrooms with an outdoor pool",
+            "Rooms": "5 bedrooms, 1 gym, 2 living room, 1 guest house",
+            "Contact": "+254 721 888 288",
+            "Location":"Malindi"
+        },
+    
+        {
+            "id": "House 8",
+            "image": "https://i.pinimg.com/736x/fe/26/cc/fe26cc69e593fa5b9a990a897eb6ff29.jpg",
+            "Price": "Ksh 400,000",
+            "Description": "3 bedrooms with a huge backyard",
+            "Rooms": "3 bedrooms, 1 gym, 2 living rooms",
+            "Contact": "+254 769 666 545",
+            "Location": "Nyeri"
+            
+        },
+        {
+            "id": "House 9",
+            "image": "https://i.pinimg.com/236x/ef/ff/4e/efff4e6af60d4a8a2e8779d9fea3b44c.jpg",
+            "Price": "Ksh 1,000,000",
+            "Description": "4 bedrooms with a flower garden in the backyard",
+            "Rooms": "4 bedrooms, 1 gym, 1 living room, 1 gaming room",
+            "Contact": "+254 721 888 288",
+            "Location": "Ruiru"
+        },
+        {
+            "id": "House 10",
+            "image": "https://i.pinimg.com/236x/ab/ba/8d/abba8dfaae5d358bba55525c124a270d.jpg",
+            "Price": "Ksh 2.5M",
+            "Description": "4 bedrooms with an indoor pool",
+            "Rooms": "4 bedrooms, 1 gym, 2 living rooms, 5 bathrooms",
+            "Contact": "+254 721 888 288",
+            "Location": "Nanyuki"
+        }
+    ]
+}

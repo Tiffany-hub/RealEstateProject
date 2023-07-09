@@ -1,0 +1,147 @@
+body{
+  background-color: rgb(216, 216, 216);
+}
+
+.box1{
+  background-color: black;
+  border: 1px solid black;
+  height: 40px;
+  
+}
+
+h5{
+  font-weight: normal;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: white;
+  
+
+}
+.subbox{
+  height:50px;
+  background-color: whitesmoke;
+  border:1px solid transparent;
+}
+nav{
+  float:right;
+}
+nav li{
+  float: right;
+  width:90px;
+  position: relative;
+  right:25%;
+  list-style-type: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+} 
+nav li a{
+  text-decoration: none;
+  color:black;
+}   
+
+nav li a:hover{
+  border-bottom: 4px solid rgba(80, 5, 80, 0.829);
+}
+
+
+h2{
+  position: relative;
+  left: 2%;
+  text-transform: uppercase;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 4px;
+  font-weight: bolder;
+}
+
+font{
+  color:rgba(187, 49, 218, 0.877);
+}
+
+form input[type="submit"]{
+  position: absolute;
+  top: 86%;
+  padding:10px;
+  text-transform: uppercase;
+  background-color:rgb(199, 46, 199) ;
+  border: none;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+}
+form input[type="submit"]:hover{
+   background-color:purple ;
+}
+
+.cover img{
+  height:800px;
+  width: 1500px;
+  opacity: 0.5;
+}
+.text{
+  position: absolute;
+  top:30%;
+  left: 7%;
+
+}
+h1{
+  font-size: 70px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: capitalize;
+  width:460px ;
+  word-spacing: 0px;
+  font-weight: normal;
+  line-height: 72px;
+}
+h4{
+  position: absolute;
+  top:-4%;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 40px 0;
+}
+
+.houses-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.house-card {
+  width: 300px;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.house-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  background-color: grey;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+
+.like-button.liked {
+  color: red;
+}
